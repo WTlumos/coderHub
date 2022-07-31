@@ -26,6 +26,6 @@ DATABASE =
 
 # 图片上传
 
-根目录下新建 uploads 文件
+根目录下新建 uploads 文件夹
 
 uploads 中新建 avatar，picture 文件夹
